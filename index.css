@@ -1,0 +1,41 @@
+
+body {
+  text-align: center;
+  align-items: center;
+}
+#cricket-container{
+  border: 2px solid black;
+  height: 450px;
+  width: 450px;
+  border-radius: 10px;
+  margin-left: 20px;
+  text-align: center;
+  background-color: darkgrey;
+  margin-left: 30%;
+  
+
+}
+.choice-button{
+ 
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin :15px;
+  background-color: cyan;
+  border-radius: 50px;
+  cursor: pointer;
+  border: 2px dotted rgb(255, 47, 47);
+}
+
+.choice-image{
+  height:80px
+  
+}
+#reset-btn{
+  border: 2px solid black;
+  height: 60px;
+  width: 100px;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: chartreuse;
+}
